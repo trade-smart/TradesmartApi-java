@@ -19,6 +19,7 @@ add NorenApi-java-1.1-SNAPSHOT.jar as a dependency
 
 Symbols
 - [searchscrip](#md-searchscrip)
+- [get_time_price_series](#md-get_time_price_series)
 
 Orders and Trades
 - [place_order](#md-place_order)
