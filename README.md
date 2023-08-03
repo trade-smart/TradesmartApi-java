@@ -1,4 +1,4 @@
-# NorenApi-java
+# TradesmartApi-java
 
 JavaApi used to connect to NorenOMS
 ****
