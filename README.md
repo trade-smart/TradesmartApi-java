@@ -121,13 +121,14 @@ Sample Failure Response :
 }
 
 #### <a name="md-forgotpasswordOTP"></a> forgot_passwordOTP(userid,pan)
+This API is used for OTP Generation
 
 Request Details :
 
 |Json Fields|Possible value|Description|
 | --- | --- | ---|
 |uid*||User Id|
-|pan*||Pan of the user Or Sha256 3 times of password|
+|pan*||Sha256 3 times of password|
 
 Response Details :
 |Json Fields|Possible value|Description|
